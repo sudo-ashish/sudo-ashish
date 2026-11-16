@@ -1,3 +1,3 @@
-ashish@archlinux:~$ tree ~/featured
+ashish@archlinux:~$ tree ~/QDeck
 
 ashish@archlinux:~$ btop --stats
